@@ -34,3 +34,8 @@ This is a Task Manager Application developed using Android Studio and Kotlin. It
 5.Kotlin Coroutines: For handling background operations
   
 </ul>
+
+
+
+![Screenshot 2024-11-29 201450](https://github.com/user-attachments/assets/327ad292-a219-44c7-af16-f8d43f02bee4)
+
